@@ -2,25 +2,25 @@
 
 # 👋 Hi, I'm Dhadhist Tiwari
 
-### Java Developer • Full Stack Developer • DSA Enthusiast • Oracle OCI AI Certified
+### 🚀 Computer Science Student • Java & DSA Enthusiast • Full Stack Developer • Oracle OCI AI Certified
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7C948&center=true&vCenter=true&width=750&lines=Java+Developer;Full+Stack+Developer;DSA+Enthusiast;Oracle+OCI+AI+Certified;Building+Practical+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F7C948&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Java+Developer;Full+Stack+Developer;DSA+Learner;Oracle+OCI+AI+Certified;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DhadhistTiwari&label=PROFILE+VIEWS&color=f59e0b&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/DhadhistTiwari?style=flat-square&label=FOLLOWERS&color=30363D&logo=github&logoColor=F0F6FC" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/DhadhistTiwari?style=flat-square&label=STARS&color=30363D&logo=github&logoColor=F0F6FC" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=DhadhistTiwari&label=Profile%20Views&color=f59e0b&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/DhadhistTiwari?style=for-the-badge&logo=github&color=30363D&logoColor=F0F6FC" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/DhadhistTiwari?style=for-the-badge&logo=github&color=30363D&logoColor=F0F6FC" alt="Stars" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/dhadhisttiwari" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=F7C948" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=F7C948" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/Dhadhist_Tiwari" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-161B22?style=flat-square&logo=leetcode&logoColor=F59E0B" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=F59E0B" alt="LeetCode"/>
   </a>
   <a href="mailto:dhadhist.t07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=F0F6FC" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=F0F6FC" alt="Gmail"/>
   </a>
 </p>
 
@@ -154,19 +154,19 @@
 
 ---
 
-## 🐍 Activity Animation
+## 💭 Dev Quote
 
-<p align="center">
-  <img src="https://github.com/DhadhistTiwari/DhadhistTiwari/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" onerror="this.src='https://raw.githubusercontent.com/DhadhistTiwari/DhadhistTiwari/output/github-contribution-grid-snake.svg'" />
-</p>
-
----
-
-## 💭 Random Dev Quote
-
-<p align="center">
-  <img src="https://readme-javascript-quotes-api.vercel.app/api?theme=dark&bg_color=0D1117&border_color=30363D&text_color=F0F6FC" alt="Dynamic Developer Quote" />
-</p>
+<div align="center">
+  <table width="80%">
+    <tr>
+      <td bgcolor="#161B22" style="padding: 15px; border: 1px solid #30363D; border-radius: 6px;">
+        <p align="center" style="margin: 0; font-family: monospace; color: #F0F6FC;">
+          💥 <i>"Code isn't just about making computers work—it's about solving problems that matter."</i>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
