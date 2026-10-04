@@ -16,7 +16,7 @@
   <a href="https://linkedin.com/in/dhadhisttiwari" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=F7C948" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/Dhadhist_Tiwari" target="_blank">
+  <a href="https://leetcode.com/D_Tiwari_" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=F59E0B" alt="LeetCode"/>
   </a>
   <a href="mailto:dhadhist.t07@gmail.com">
